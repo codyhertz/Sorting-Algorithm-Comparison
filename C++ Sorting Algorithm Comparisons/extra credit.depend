@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1512092824 source:c:\users\codyh\desktop\programs\extra credit\main.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<iomanip>
+
